@@ -1,0 +1,22 @@
+{
+  "name": "testing-brain-train",
+  "version": "1.0.0",
+  "description": "**Здесь находится тестовая документация и автотесты для сайта Rack your brains**",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Margarita-You/Testing-Rack-your-brains.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Margarita-You/Testing-Rack-your-brains/issues"
+  },
+  "homepage": "https://github.com/Margarita-You/Testing-Rack-your-brains#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
